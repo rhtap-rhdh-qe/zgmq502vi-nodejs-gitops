@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zgmq502vi-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zgmq502vi-nodejs-gitops
